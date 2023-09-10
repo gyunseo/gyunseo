@@ -75,3 +75,8 @@
 ## Game Engine
 
 - Unity
+
+---
+
+If you like my blog, check out my blog github repoistory [repo](https://github.com/gyunseo/gyunseo.github.io).  
+Or you can even give any feedback via my [email](mailto:rbstj0311@naver.com).
