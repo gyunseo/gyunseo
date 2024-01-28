@@ -15,7 +15,7 @@
 
 ## GitHub:
 
-- <https://github.com/gyunrinkle>
+- <https://github.com/gyunseo>
 
 ## 취미(Hobby):
 
