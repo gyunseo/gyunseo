@@ -27,9 +27,9 @@
 
 ## SNS(Social Media):
 
-- 트위터(twitter handle): @gyunrinkle
-- 유튜브(youtube handle): @gyunrinkle
-- 인스타그램(ig handle): @gyunrinkle
+- 트위터(twitter handle): @gyunseo0311
+- 유튜브(youtube handle): @gyunseo
+- 인스타그램(ig handle): @gyunseo0311
 
 # History
 
