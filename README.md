@@ -29,8 +29,4 @@
 
 * ## **HSAT Lv.3 (Hyundai Motor Group)** 
 
-  * ## **Identification Number: HSAT-24-03-021**
-
 * ## **Samsung SDS SW Certificate (Professional)** 
-
-  * ## **Identification Number: 248-02-110**
