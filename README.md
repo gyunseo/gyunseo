@@ -4,7 +4,7 @@
 
 # 이균서(Lee, Gyunseo) / 주니어 소프트웨어 엔지니어
 
-- [rbstj0311@naver.com](mailto:rbstj0311@naver.com)
+- [rbstj0311@naver.com](mailto:rbstj0311@naver.com), [gyunseo.lee@gmail.com](mailto:gyunseo.lee@gmail.com)
 - \+82 010-5505-2576
 - GitHub: [github.com/gyunseo](https://github.com/gyunseo)
 - LinkedIn: [linkedin.com/in/gyunseo](https://www.linkedin.com/in/gyunseo/)
